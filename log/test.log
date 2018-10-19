@@ -1,0 +1,21 @@
+2018-05-29 23:02:36,347 - framework - INFO - 正在登录中
+2018-05-29 23:02:36,765 - framework - INFO - 未能成功跳转首页或者首页登录异常
+2018-05-29 23:06:30,912 - framework - INFO - 正在登录中
+2018-05-29 23:22:21,571 - framework - INFO - 正在登录中
+2018-05-29 23:23:25,809 - framework - INFO - 正在登录中
+2018-05-29 23:23:25,971 - framework - INFO - 登录成功
+2018-05-29 23:28:37,748 - framework - INFO - 正在登录中
+2018-05-29 23:28:37,969 - framework - INFO - 登录成功
+2018-05-29 23:28:43,306 - framework - INFO - 开始搜索
+2018-05-29 23:36:06,551 - framework - INFO - 正在登录中
+2018-05-29 23:36:06,736 - framework - INFO - 登录成功
+2018-05-29 23:41:18,296 - framework - INFO - 正在登录中
+2018-05-29 23:41:18,419 - framework - INFO - 登录成功
+2018-05-29 23:46:19,883 - framework - INFO - 正在登录中
+2018-05-29 23:46:20,036 - framework - INFO - 登录成功
+2018-05-29 23:46:27,576 - framework - INFO - 开始搜索
+2018-05-29 23:54:50,596 - framework - INFO - 正在登录中
+2018-05-29 23:54:50,734 - framework - INFO - 未能成功跳转首页或者首页登录异常
+2018-05-29 23:57:20,477 - framework - INFO - 正在登录中
+2018-05-29 23:57:53,656 - framework - INFO - <test.page.denglu_main_page.DendluMainPage object at 0x000001D94DF41CC0> 页面中未能找到 ('xpath', '//*[@type="text"]') 元素
+2018-05-29 23:57:53,656 - framework - INFO - 页面未成功打开或登录页面未找到定位元素
